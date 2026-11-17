@@ -1,0 +1,27 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+# Credentials
+.env
+.kaggle/
+kaggle.json
+*.key
+# Data and caches (recreate using scripts)
+data/raw/*
+data/processed/*
+data/vectorstore/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/vectorstore/.gitkeep
+artifacts/*
+!artifacts/.gitkeep
+# Misc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
