@@ -8,6 +8,9 @@ Aplicação de **Inteligência Artificial Generativa com RAG** para responder pe
 
 **Escopo do desafio:** construção de conhecimento, preparação do texto, embeddings, indexação, recuperação, contexto e geração com LLM; evidências; recusa diante de ausência de suporte; repositório público e vídeo demonstrativo de até 7 minutos.
 
+VÍDEO DE APRESENTAÇÃO
+[INSERIR LINK DO VÍDEO APÓS A GRAVAÇÃO]
+
 ## 1. Requisitos
 
 - Windows 10/11 com PowerShell, Python **3.12 (64 bits)** e Git. Python 3.11 também é aceitável; 3.12 é a versão de referência deste projeto.
