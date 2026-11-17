@@ -25,3 +25,5 @@ artifacts/*
 .ipynb_checkpoints/
 .DS_Store
 Thumbs.db
+# Roteiro do video - uso local
+docs/roteiro_video_7min.md
