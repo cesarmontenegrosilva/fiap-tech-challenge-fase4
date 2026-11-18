@@ -10,7 +10,7 @@ Aplicação de **Inteligência Artificial Generativa com RAG** para responder pe
 
 VÍDEO DE APRESENTAÇÃO
 
-[INSERIR LINK DO VÍDEO APÓS A GRAVAÇÃO]
+https://youtu.be/HElK12ErT6I
 
 ## 1. Requisitos
 
